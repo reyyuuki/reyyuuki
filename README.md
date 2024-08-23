@@ -34,11 +34,8 @@ I’m a versatile programmer with expertise across various technologies. Here’
 
 Here are a few projects I’m excited about:
 
-- **[Gamer’s Paradise](https://github.com/reyyuuki/gamers-paradise)**  
-  A React-based platform designed for gaming enthusiasts, featuring real-time chat and gaming stats. 🕹️
-
-- **[Recipe App](https://github.com/reyyuuki/recipe-app)**  
-  A Flutter app that lets you discover and manage recipes with a stunning UI. 🍲
+- **[Recipe App](https://github.com/reyyuuki/daizy-tv)**  
+  A Flutter app that lets you watch Anime and read Manga with a stunning UI. 🍲
 
 ## 🌱 Currently Exploring
 
