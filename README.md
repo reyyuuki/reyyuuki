@@ -55,8 +55,8 @@ Here are a few projects I’m excited about:
 Feel free to reach out to me:
 
 - **Email**: [irfan31331@gmail.com](mailto:irfan31331@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/irfan-khan-mew)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/ReyYuuki313)
+- **LinkedIn**: [Irfan Khan Mew](https://www.linkedin.com/in/irfan-khan-mew)
+- **Twitter**: [@ReyYuuki](https://twitter.com/ReyYuuki313)
 
 ---
 
