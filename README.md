@@ -34,7 +34,7 @@ I’m a versatile programmer with expertise across various technologies. Here’
 
 Here are a few projects I’m excited about:
 
-- **[Daizy Tv](https://github.com/reyyuuki/daizy_tv)**  
+- **[AzyX](https://github.com/reyyuuki/daizy_tv)**  
   A Flutter app that lets you watch Anime and read Manga with a stunning UI. 🍲
 
 ## 🌱 Currently Exploring
